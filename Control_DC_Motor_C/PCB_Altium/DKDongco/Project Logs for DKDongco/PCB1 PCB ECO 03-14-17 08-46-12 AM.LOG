@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=RST Pin=JP1-1
+Removed Pin From Net: NetName=SCK Pin=JP1-2
+Removed Pin From Net: NetName=MISO Pin=JP1-3
+Removed Pin From Net: NetName=MOSI Pin=JP1-4
+Removed Pin From Net: NetName=GND Pin=JP1-5
+Removed Pin From Net: NetName=VCC Pin=JP1-6
+Added Pin To Net: NetName=GND Pin=JP1-1
+Added Pin To Net: NetName=VCC Pin=JP1-2
+Added Pin To Net: NetName=RST Pin=JP1-3
+Added Pin To Net: NetName=SCK Pin=JP1-4
+Added Pin To Net: NetName=MISO Pin=JP1-5
+Added Pin To Net: NetName=MOSI Pin=JP1-6
