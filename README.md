@@ -49,7 +49,7 @@ The circuit is designed to interface the ATmega16 microcontroller with the L298 
 - Circuit design files (schematics and PCB layout).
   - [schematic](https://github.com/nguyenbinh-shark/ATmega16_DC_motor_control/blob/main/Control_DC_Motor_C/PCB_Altium/DKDongco/Sheet1.SchDoc) - [Image_Schematic](https://github.com/nguyenbinh-shark/ATmega16_DC_motor_control/blob/main/Control_DC_Motor_C/PCB_Altium/DKDongco/schematic.jpg)
   - [PCB](https://github.com/nguyenbinh-shark/ATmega16_DC_motor_control/blob/main/Control_DC_Motor_C/PCB_Altium/DKDongco/PCB1.PcbDoc) - [image PCB](https://github.com/nguyenbinh-shark/ATmega16_DC_motor_control/blob/main/Control_DC_Motor_C/PCB_Altium/DKDongco/PCB_DC.jpg).
-- Firmware source code for ATmega16.
+- Firmware source code for ATmega16.[code](https://github.com/nguyenbinh-shark/ATmega16_DC_motor_control/blob/main/Control_DC_Motor_C/code%20ATmel/Control_DC_Motor_C/main.c).
 
 ## Tools and Software
 - **Programming**: Atmel Studio for coding and uploading firmware to the ATmega16.
