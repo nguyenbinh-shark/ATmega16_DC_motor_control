@@ -54,7 +54,7 @@ The circuit is designed to interface the ATmega16 microcontroller with the L298 
 ## Tools and Software
 - **Programming**: Atmel Studio for coding and uploading firmware to the ATmega16.
 - **Circuit Design**: Altium Designer or equivalent software for PCB design.
-- **Simulation**: Proteus for simulating the circuit functionality.
+- **Simulation**: Proteus for simulating the circuit functionality[Here](https://github.com/nguyenbinh-shark/ATmega16_DC_motor_control/blob/main/Control_DC_Motor_C/proteus/test.pdsprj).
 
 ## Future Improvements
 - Add support for additional motor types.
